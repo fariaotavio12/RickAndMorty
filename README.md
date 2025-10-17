@@ -1,4 +1,4 @@
-📋 Descrição do Projeto
+### 📋 Descrição do Projeto
 Este projeto é uma aplicação web desenvolvida em Vue.js que consome a Rick and Morty API para exibir informações sobre os personagens, localizações e episódios da série.
 
 ## Customize configuration
